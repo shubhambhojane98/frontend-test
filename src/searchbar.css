@@ -1,0 +1,62 @@
+.container{
+    width: 300px;
+	height: 300px;
+	
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+}
+
+.input{
+    
+    position: static;
+    width: 489px;
+    height: 400px;
+}
+
+.MuiInput-input{
+    width: 3px;
+}
+
+input:focus{
+    outline: none;
+}
+
+p{
+    position: static;
+width: 157px;
+height: 19px;
+left: 0px;
+top: 32px;
+
+font-family: Noto Sans;
+font-style: italic;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+}
+
+h1{
+    position: static;
+width: 36px;
+height: 22px;
+left: 0px;
+top: 0px;
+
+/* Label/label--L */
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 12.8px;
+line-height: 170%;
+/* identical to box height, or 22px */
+
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}
+
